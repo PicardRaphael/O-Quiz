@@ -1,0 +1,53 @@
+
+#oquiz{
+    font-size: 2em;
+    color: #337ab7;
+}
+.menu-li{
+    padding: 0 5px;
+}
+.menu-li:hover{
+    background-color: #337ab7;
+    border-radius: 3px;
+}
+.quiz h3{
+    color: #337ab7;
+    font-weight: bold;
+}
+.quiz h5{
+    font-weight: bold;
+}
+
+.nbr-questions{
+   background-color: #777777;
+   color: white;
+   font-size: 0.5em;
+   padding: 2px 8px;
+   border-radius: 15px;
+   font-weight: bold;
+}
+
+.card{
+    padding: 0;
+
+}
+#level{
+    float: right;
+    margin-left: 10px;
+    padding: 0 5px;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    
+}
+.Débutant{
+    background-color: green;
+}
+
+.Expert{
+    background-color: red;
+}
+
+.Confirmé{
+    background-color: orange;
+}
