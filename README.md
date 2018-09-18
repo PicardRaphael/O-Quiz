@@ -1,5 +1,5 @@
 # O'Quiz
-## Pour récupérer une copie de mon test :
+## Pour récupérer une copie de O-Quizz :
 
 ```
 git clone git@github.com:PicardRaphael/O-Quiz.git
